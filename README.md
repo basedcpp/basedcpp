@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @basedcpp
-- 👀 I’m interested in C, C++, C#, Java, Python.
+- 👀 I’m interested in C, C++
 - 🌱 I’m currently learning how to use Github.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
