@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @basedcpp
-- 👀 I’m interested in C, C++
+- 👀 I’m interested in competitive programming (USACO, Hacker Cup, Code Jam)
 - 🌱 I’m currently learning how to use Github.
 - 💞️ I’m looking to collaborate on ML/DS projects :)
-- 📫 Add me on Discord! ID: basedcpp#6611
+- 📫 Add me on Discord! basedcpp#6611
 
 <!---
 basedcpp/basedcpp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
